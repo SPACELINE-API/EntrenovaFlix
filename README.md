@@ -1,72 +1,97 @@
-  # API - 3° Semestre ADS - FATEC SJC
+# 🚀 SpaceLine - API ADS 3º Semestre
 
-  Projeto voltado para o desenvolvimento do
+<p align="center">
+  Plataforma Web de Acompanhamento de Conteúdos Corporativos e Streaming Educacional
+</p>
 
-  # Índice
-  * [Objetivo do Projeto](#objetivo-do-projeto)
-  * [Demonstrações das sprints](#Demostrações-das-sprints)
-  * [Backlog do produto](#Backlog-do-produto)
-  * [Competências desenvolvidas](#competências-desenvolvidas)
-  * [Autores](#autores)
+<p align = "center">
+  <a href = "#desafio"> Desafio </a>  |   
+  <a href = "#mvp"> MVP </a>  |
+  <a href ="#prototipo"> Protótipo </a>  | 
+  <a href = "#demo"> Demonstração </a>  |
+  <a href = "#sprint"> Sprints </a> |
+  <a href = "#metodologia"> Metodologia </a> |  
+  <a href = "#backlog"> Backlog do Produto </a>  | 
+  <a href = "#equipe"> Equipe </a>  |
+   <a href = "#cliente"> Cliente </a>  |     
+  <a href = "#docentes"> Docentes </a>
+</p>
 
-  # Projeto API
-  Lançar um projeto com estrutura mínima e parcerias estratégicas para validação de produtos de conteúdos que unifiquem entretenimento digital, cinema e educação em ambientes corporativos.
-  ## :card_index: Sprints
-  
-  Sprint | Previsão | Status| Link
-  |------|--------|------|------|
-  |Kick Off Geral | 25/08/2025 - 29/08/2025 | Concluído | |
-  |01| 10/03/2025 - 08/09/2025 | A fazer | - |
-  |02| 07/04/2025 - 06/10/2025 | A fazer | - |
-  |03| 05/05/2025 - 03/11/2025 | A fazer | -
-
-
-  # Objetivo do Projeto
-  Desenvolvimento de um site de Streaming empresarial
-
-
-# :vhs: MVP
-
-Apresentação do que foi entregue em cada uma das sprints.
-
-![Roadmap]()
-
-
-# Backlog das Sprints
-![Image]()
-
-## :desktop_computer: Tecnologias Utilizadas
-<div align="left">
-  <img src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,react,ollama" />
+# Tecnologias
+<div align="center">
+  <img   src="https://go-skill-icons.vercel.app/api/icons?i=canva,css,figma,git,github,vscode,python,jira,excel,ollama,javascript,typescript,html,googlecolab,react,nodejs,ngrok,gemini&perline=9" />
 </div>
 
-###
 
-# Backlog do produto
+## 📃 Desafio
+<a id="desafio"></a>
 
-| Rank | User Story | Prioridade | Sprint |
-|----|---------|----------|------|
-
+O objetivo do projeto **SpaceLine** é desenvolver uma plataforma web que combine **entretenimento digital, cinema e aprendizado corporativo**, permitindo que empresas e colaboradores acessem conteúdos educativos de forma organizada e interativa.
 
 
 
+## 🚲 MVP (Minimal Viable Product)
+<a id="mvp"></a>
 
-  </details>
-
-# :medal_sports: Docentes
-| P¹ | m² |
-| ---------------------- | ------------- |
-| Professor Fernando Massanori | Professor Cláudio Lima |
+**SpaceLine** permite que **gestores e colaboradores** acessem conteúdos corporativos, treinamentos e materiais multimídia de forma organizada, interativa e responsiva.  
+A plataforma proporciona análise de engajamento e facilita a distribuição de conteúdos educativos dentro do ambiente corporativo.
 
 
-  # Autores
-|    Função     | Nome                                  |                                                                                                                                                      LinkedIn & GitHub                                                                                                                                                      |
-| :-----------: | :------------------------------------ | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| Product Owner   | Yasmin Cristina Padilha              |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yaspadilha)|
-|  Scrum Master  | Letícia Gabriele de Oliveira Lopes                 |         [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leti-10)   
-| Team Member |   Rafaela da Silva Penafiel Diniz         |     [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelapenafiel)              |
-| Team Member  | Julia Roberta Ferreira Prianti |      [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliaprianti06)  |
-|  Team Member  | Raul Germano Rosendo de Oliveira Duarte       |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Raul-Germano-Rosendo)          |
-|  Team Member  | Vinícius Lopes     |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vlopes7)          |
-|  Team Member  | João Álvaro Oliveira Silva       |           [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoAlv4ro) |
-| Team Member | Pablo Rafael  | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafa0709)
+
+## 📼 Demonstrações
+
+################
+
+## 📊 Protótipo
+
+#################
+
+## 📅 Sprints
+<a id="sprint"></a>
+
+🔜 **SPRINT 1:** Ainda não iniciada <br>
+🔜 **SPRINT 2:** Ainda não iniciada <br>
+🔜 **SPRINT 3:** Ainda não iniciada 
+
+
+
+## 🐙 Backlog do Produto
+<a id="backlog"></a>
+
+| Rank | Prioridade | User Story | Sprint | Status |
+| :--: | :--------: | :----------------------------------------------------------: | :----: | :----: |
+
+
+
+
+## 🫧 SpaceTeam
+<a id="equipe"></a>
+
+| Função         | Nome                                | GitHub |
+| :------------: | :--------------------------------- | :---------------- |
+| Scrum Master   | Letícia Gabriele de Oliveira Lopes | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Leti-10) |
+| Product Owner  | Yasmin Cristina Padilha            | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/yaspadilha) |
+| Team Member    | Rafaela da Silva Penafiel Diniz    | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/rafaelapenafiel) |
+| Team Member    | Julia Roberta Ferreira Prianti     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/juliaprianti06) |
+| Team Member    | Raul Germano Rosendo de Oliveira   | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Raul-Germano-Rosendo) |
+| Team Member    | Vinícius Lopes                     | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Vlopes7) |
+| Team Member    | João Álvaro Oliveira Silva         | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/JoaoAlv4ro) |
+| Team Member    | Pablo Rafael                       | [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/Rafa0709) |
+
+
+
+## 💫 Cliente
+<a id="cliente"></a>
+
+| Cliente | Empresa |
+| :-----: | :---: |
+| Marcella Arnulf | Entrenova|
+
+
+
+## 🏫 Docentes
+<a id="docentes"></a>
+
+| P² | M² |
+| :-------------: | :-------------: |
+| Prof° Fernando Massanori | Prof° Cláudio Lima |
