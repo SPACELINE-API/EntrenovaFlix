@@ -10,7 +10,6 @@
   <a href ="#prototipo"> Protótipo </a>  | 
   <a href = "#demo"> Demonstração </a>  |
   <a href = "#sprint"> Sprints </a> |
-  <a href = "#metodologia"> Metodologia </a> |  
   <a href = "#backlog"> Backlog do Produto </a>  | 
   <a href = "#equipe"> Equipe </a>  |
    <a href = "#cliente"> Cliente </a>  |     
